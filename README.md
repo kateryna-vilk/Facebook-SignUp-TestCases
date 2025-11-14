@@ -2,7 +2,7 @@
 
 This is a portfolio project demonstrating a set of test cases for the Facebook "Sign Up" functionality.
 
-The test cases are divided into two categories, located in separate sheets within the Excel file: * **Valid Scenarios:** Testing the "happy path" and successful user registration. * **Invalid Scenarios:** Testing edge cases, error handling, and invalid user inputs.
+The test cases are divided into two categories, located in separate sheets within the Excel file: **Valid Scenarios:** Testing the "happy path" and successful user registration. **Invalid Scenarios:** Testing edge cases, error handling, and invalid user inputs.
 
 ## Tools Used - Google Sheets
 
